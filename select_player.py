@@ -4,17 +4,15 @@ from tools.players_select.selection_logic import *
 from tools.players_select.utils import *
 
 players = [
-    'Aisha',
-    'Alla',
-    'Anurag',
-    'Kate',
-    'Katie',
-    'Lisardo',
-    'Moritz',
-    'Noah',
-    'Philipp',
-    'Prabha',
-    'Sanja',
+    'Scrooge',
+    'Huey',
+    'Dewey',
+    'Louie',
+    'Webby',
+    'Launchpad',
+    'Donald',
+    'Daisy',
+    'Darkwing',
 ]
 weights = []
 pick_player = True
